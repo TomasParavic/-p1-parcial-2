@@ -2,8 +2,8 @@
 
 ## Alumno/s
 
-- Alumno/a 1 (@usuariodeGitHub)
-- Alumno/a 2 (@usuariodeGitHub)
+- Tomas Paravic (@TomasParavic)
+
 
 ## Observaciones
 
